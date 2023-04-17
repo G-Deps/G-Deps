@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Omnes Blockchain, Web3Club and Bitsports
+- 🔭 I’m currently working on Omnes Blockchain and Web3Club
 - 🌱 I’m learning about Web3 always
 
 <div align="center">
